@@ -1,2 +1,2 @@
-# git_exercise
-First steps in git!
+# There are my Data Science pet projects!
+
