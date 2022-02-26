@@ -1,2 +1,2 @@
 # git_exercise
-First steps in git
+First steps in git!
